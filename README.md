@@ -1,2 +1,2 @@
 # fantastic-projects
-Repository for all my fantastic projects
+View all my fantastic projects
